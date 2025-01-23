@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-
 2222222222
 testing rebase from branch test/2
->>>>>>> test/2
+
